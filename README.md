@@ -3,7 +3,18 @@
 All you need to do is to open repository in VSCode and run 'Remote-Containers: Open Folder in Container...'.
 
 Run examples:
-`dotnet example`
+`dotnet example <name>`
+
+```bash
+$ dotnet example
+
+# ┌──────────────────────┬───────────────────────────────────────────────────────────┐
+# │ Example              │ Description                                               │
+# ├──────────────────────┼───────────────────────────────────────────────────────────┤
+# │ GlobalUsings         │ GlobalUsings and ImplicitUsings (MSBuild) (C# 10; .NET 6) │
+# │ FileScopedNamespaces │ FileScopedNamespaces (C# 10)                              │
+# └──────────────────────┴───────────────────────────────────────────────────────────┘
+```
 
 ## Reference
 

@@ -9,7 +9,7 @@
 
 	<PropertyGroup Label="dotnet-example">
 		<ExampleTitle>GlobalUsings</ExampleTitle>
-		<ExampleDescription>GlobalUsings and ImplicitUsings (MSBuild)</ExampleDescription>
+		<ExampleDescription>GlobalUsings and ImplicitUsings (MSBuild) [green](C# 10; .NET 6)[/]</ExampleDescription>
 		<ExampleOrder>1</ExampleOrder>
 	</PropertyGroup>
 
