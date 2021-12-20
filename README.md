@@ -3,6 +3,7 @@
 All you need to do is to open repository in VSCode and run 'Remote-Containers: Open Folder in Container...'.
 
 Run examples:
+
 `dotnet example <name>`
 
 ```bash
@@ -20,3 +21,4 @@ $ dotnet example
 
 * <https://www.theurlist.com/whats-new-in-dotnet6-and-csharp10>
 * <https://www.theurlist.com/minimalapi-in-dotnet6>
+* <https://github.com/patriksvensson/dotnet-example>
