@@ -14,3 +14,7 @@ LINQ/DefaultParamsForCommonMethods
 LINQ/TryGetNonEnumeratedCount
 LINQ/SomethingBy
 DateOnly
+SystemTextJson/Notification
+SystemTextJson/PropertyOrdering
+SystemTextJson/StreamSupport
+SystemTextJson/DOM

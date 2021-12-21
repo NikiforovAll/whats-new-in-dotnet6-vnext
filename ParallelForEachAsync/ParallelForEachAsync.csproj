@@ -9,7 +9,7 @@
 
 	<PropertyGroup Label="dotnet-example">
 		<ExampleTitle>ParallelForEachAsync</ExampleTitle>
-		<ExampleDescription>ParallelForEachAsync. Task.WaitAsync. Random.Shared​ [green](.NET 6)[/]</ExampleDescription>
+		<ExampleDescription>ParallelForEachAsync. Task.WaitAsync. Random.Shared [green](.NET 6)[/]</ExampleDescription>
 		<ExampleOrder>7</ExampleOrder>
 	</PropertyGroup>
 </Project>
