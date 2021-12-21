@@ -13,3 +13,4 @@ LINQ/Take
 LINQ/DefaultParamsForCommonMethods
 LINQ/TryGetNonEnumeratedCount
 LINQ/SomethingBy
+DateOnly
