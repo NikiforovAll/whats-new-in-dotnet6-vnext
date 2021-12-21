@@ -4,6 +4,7 @@
 var p1 = new Point2(1, 0, 0);
 var p2 = p1 with { X = 2 };
 
+// [new] Assignment and declaration in the same deconstruction
 double p2x = 0;
 (p2x, var y, var z) = p2;
 
