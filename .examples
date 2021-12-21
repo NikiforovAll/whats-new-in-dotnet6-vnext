@@ -7,3 +7,9 @@ CallerArgumentExpression
 ParallelForEachAsync
 PeriodicTimer
 PriorityQueue
+LINQ/Chunking
+LINQ/ElementAt
+LINQ/Take
+LINQ/DefaultParamsForCommonMethods
+LINQ/TryGetNonEnumeratedCount
+LINQ/SomethingBy
