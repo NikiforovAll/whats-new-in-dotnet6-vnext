@@ -26,4 +26,5 @@ $ dotnet example
 
 * <https://www.theurlist.com/whats-new-in-dotnet6-and-csharp10>
 * <https://www.theurlist.com/minimalapi-in-dotnet6>
+* <https://github.com/NikiforovAll/whats-new-in-dotnet6>
 * <https://github.com/patriksvensson/dotnet-example>

@@ -5,3 +5,5 @@ MinimalAPI
 PartialMethods
 CallerArgumentExpression
 ParallelForEachAsync
+PeriodicTimer
+PriorityQueue
