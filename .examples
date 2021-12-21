@@ -2,3 +2,4 @@ GlobalUsings
 FileScopedNamespaces
 RecordStructs
 MinimalAPI
+PartialMethods

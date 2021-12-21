@@ -1,4 +1,5 @@
 namespace MinimalAPI;
+
 public static class ApiConstants
 {
     private const string ApiBaseUrl = "/api";

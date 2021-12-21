@@ -10,10 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5" />
   </ItemGroup>
 
-  <PropertyGroup Label="dotnet-example">
-		<ExampleTitle>MinimalAPI</ExampleTitle>
-		<ExampleDescription>MinimalAPI and Hot Reload. Lambda improvements. Constant interpolated strings. [green](C# 10; .NET 6; Tooling)[/]</ExampleDescription>
-		<ExampleOrder>4</ExampleOrder>
-	</PropertyGroup>
+    <PropertyGroup Label="dotnet-example">
+	    <ExampleTitle>MinimalAPI</ExampleTitle>
+	    <ExampleDescription>MinimalAPI and Hot Reload. Lambda improvements. Constant interpolated strings. [green](C# 10; .NET 6; Tooling)[/]</ExampleDescription>
+	    <ExampleOrder>4</ExampleOrder>
+    </PropertyGroup>
 
 </Project>
