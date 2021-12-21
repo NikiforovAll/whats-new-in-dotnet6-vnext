@@ -9,12 +9,17 @@ Run examples:
 ```bash
 $ dotnet example
 
-# ┌──────────────────────┬───────────────────────────────────────────────────────────┐
-# │ Example              │ Description                                               │
-# ├──────────────────────┼───────────────────────────────────────────────────────────┤
-# │ GlobalUsings         │ GlobalUsings and ImplicitUsings (MSBuild) (C# 10; .NET 6) │
-# │ FileScopedNamespaces │ FileScopedNamespaces (C# 10)                              │
-# └──────────────────────┴───────────────────────────────────────────────────────────┘
+# ┌──────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+# │ Example                  │ Description                                                                                             │
+# ├──────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ GlobalUsings             │ GlobalUsings and ImplicitUsings (MSBuild) (C# 10; .NET 6)                                               │
+# │ FileScopedNamespaces     │ FileScopedNamespaces (C# 10)                                                                            │
+# │ RecordStructs            │ RecordStructs (C# 10)                                                                                   │
+# │ MinimalAPI               │ MinimalAPI and Hot Reload. Lambda improvements. Constant interpolated strings. (C# 10; .NET 6; Tooling) │
+# │ PartialMethods           │ Partial Methods. Microsoft.Extensions.Logging.LoggerMessage. Source generators. (C# 10; .NET 6, SDK)    │
+# │ CallerArgumentExpression │ CallerArgumentExpression. ArgumentNullException (.NET 6, Roslyn)                                        │
+# │ ParallelForEachAsync     │ ParallelForEachAsync. Task.WaitAsync. Random.Shared? (.NET 6)                                           │
+# └──────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## Reference
