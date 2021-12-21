@@ -15,7 +15,7 @@
 
 	<PropertyGroup Label="dotnet-example">
 		<ExampleTitle>PartialMethods</ExampleTitle>
-		<ExampleDescription>Partial Methods. Microsoft.Extensions.Logging.LoggerMessage. Source generators. [green](C# 10; .NET 6)[/]</ExampleDescription>
+		<ExampleDescription>Partial Methods. Microsoft.Extensions.Logging.LoggerMessage. Source generators. [green](C# 10; .NET 6, SDK)[/]</ExampleDescription>
 		<ExampleOrder>5</ExampleOrder>
 	</PropertyGroup>
 

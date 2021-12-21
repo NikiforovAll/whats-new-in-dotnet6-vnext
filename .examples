@@ -3,3 +3,5 @@ FileScopedNamespaces
 RecordStructs
 MinimalAPI
 PartialMethods
+CallerArgumentExpression
+ParallelForEachAsync
