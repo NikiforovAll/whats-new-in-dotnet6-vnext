@@ -13,5 +13,3 @@ while (await timer.WaitForNextTickAsync())
     }
     WriteLine(e);
 }
-
-public record class LogEntry(int Value);
