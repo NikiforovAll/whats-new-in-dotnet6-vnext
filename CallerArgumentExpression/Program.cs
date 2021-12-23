@@ -5,8 +5,8 @@ var f = new Foo(new Foo(default, 1), 0);
 TestFramework.Assert(f is not null);
 
 Console.WriteLine(f);
-// [new] Extended property patterns​
-TestFramework.Assert(f.Child.Value is > 0);
+// [new] Extended property patterns​, instead of {Child: {Value: ...}}
+TestFramework.Assert(f.Child.Value is > 0 and < 100);
 
 TestFramework.Assert(f.Child.Child is null);
 
