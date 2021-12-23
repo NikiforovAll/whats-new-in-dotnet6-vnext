@@ -32,11 +32,12 @@ async IAsyncEnumerable<int> GetStorageStream(Storage<int> storage)
 
 app.MapGet(ApiConstants.Storage, lambda);
 
-app.MapGet(ApiConstants.StorageStream, GetStorageStream);
+app.MapGet(ApiConstants.StorageStream, GetStorageStream)
+    .WithName("GetStorageAsStream");
 
 app.MapPost(ApiConstants.Storage, (Storage<int> storage) =>
 {
-    storage.Add(storage.Peek() + 2);
+    storage.Add(storage.Peek() + 3);
 
     return Results.Accepted();
 });
